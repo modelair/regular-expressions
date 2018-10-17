@@ -1,1 +1,2 @@
-export {default as patterns} from './patterns'
+var patterns = require('./patterns')
+module.export = patterns
