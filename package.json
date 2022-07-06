@@ -1,6 +1,6 @@
 {
   "name": "regular-expressions",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Simple Regexp patterns javascript library",
   "main": "index.js",
   "scripts": {
