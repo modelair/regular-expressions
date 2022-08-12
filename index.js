@@ -1,1 +1,1 @@
-import './patterns'
+export * from './patterns'
