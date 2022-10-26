@@ -1,11 +1,20 @@
 {
   "name": "regular-expressions",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple Regexp patterns javascript library",
-  "main": "index.ts",
+  "main": "dist/umd.js",
+  "module": "dist/es.js",
+  "browser": "dist/browser.js",
+  "unpkg": "dist/min.js",
+  "exports": {
+    ".": {
+      "import": "./dist/es.js",
+      "require": "./dist/umd.js"
+    }
+  },
   "scripts": {
     "test": "node index.test.ts",
-    "build": "tsc index.ts"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",

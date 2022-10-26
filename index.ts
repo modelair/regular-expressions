@@ -1,1 +1,1 @@
-export * from './patterns'
+export * from './src/patterns'
