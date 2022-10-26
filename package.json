@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamchatsky/regular-expressions.git"
+    "url": "git+https://github.com/modelair/regular-expressions.git"
   },
   "keywords": [
     "regex",
@@ -20,7 +20,7 @@
   "author": "modelair",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kamchatsky/regular-expressions/issues"
+    "url": "https://github.com/modelair/regular-expressions/issues"
   },
-  "homepage": "https://github.com/kamchatsky/regular-expressions#readme"
+  "homepage": "https://github.com/modelair/regular-expressions#readme"
 }
