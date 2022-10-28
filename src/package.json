@@ -1,12 +1,10 @@
 {
   "name": "regular-expressions",
-  "version": "0.1.12",
+  "version": "0.0.9",
   "description": "Simple Regexp patterns javascript library",
-  "main": "index.ts",
-
+  "main": "../index.js",
   "scripts": {
-    "test": "node index.test.ts",
-    "build": "tsc"
+    "test": "node index.test.js"
   },
   "repository": {
     "type": "git",
@@ -24,10 +22,5 @@
   "bugs": {
     "url": "https://github.com/modelair/regular-expressions/issues"
   },
-  "homepage": "https://github.com/modelair/regular-expressions#readme",
-  "devDependencies": {
-    "@types/node": "^18.11.5",
-    "tslint": "^6.1.3",
-    "typescript": "^4.8.4"
-  }
+  "homepage": "https://github.com/modelair/regular-expressions#readme"
 }
