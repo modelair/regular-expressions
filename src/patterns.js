@@ -16,6 +16,7 @@ const uri = /^[a-z0-9-]+$/
 const XMLTag = /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
 
 export {
+
     address,
     cc,
     code,
