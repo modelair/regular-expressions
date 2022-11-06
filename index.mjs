@@ -1,1 +1,1 @@
-export * from './src/patterns'
+export * from './src/patterns.mjs'
